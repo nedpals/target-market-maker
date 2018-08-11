@@ -1,0 +1,11 @@
+item: P20,000 Mont Blanc Fountain Pen Limited Edition
+G: United Arab Emirates
+D: upper class adults
+P:
+  - likes to collect pens
+  - likes to write in authentic ink
+  - likes to buy expensive stuff
+  - serious
+  - meticulous
+B:
+  - uses it occasionally
